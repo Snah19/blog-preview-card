@@ -63,7 +63,7 @@
         width: 327px;
         padding: 24px;
         border-radius: 20px;
-        outline: 1px solid var(--gray-950);
+        border: 1px solid var(--gray-950);
         box-shadow: 8px 8px 0 var(--black);
         background: var(--white);
         @media (width >= calc(1440 / 16 * 1rem)) {
