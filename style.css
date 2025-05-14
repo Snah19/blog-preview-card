@@ -46,7 +46,7 @@
         display: block;
     }
 
-    h2, h5, p, span {
+    h1, p, span {
         line-height: 150%;
     }
 }
@@ -112,7 +112,7 @@
         }
     }
 
-    .content__info h2 {
+    .content__info h1 {
         margin-block-end: 12px;
         font-size: calc(20 / 16 * 1rem);
         font-weight: 800;
@@ -149,7 +149,7 @@
         height: 32px;
     }
 
-    .author__profile h5 {
+    .author__profile .author__name {
         font-size: calc(14 / 16 * 1rem);
         font-weight: 800;
         letter-spacing: 0%;
